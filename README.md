@@ -1,7 +1,12 @@
 Login Page in Android Studio using Java
+
+
+
 This repository provides a simple implementation of a login page for an Android app using Java in Android Studio. The login page includes fields for username and password, along with a button to submit the credentials. Basic validation is also included to ensure that the fields are not empty.
 
 Features
+
+
 User-friendly login interface.
 Input validation for username and password.
 Responsive design for various screen sizes.
@@ -18,8 +23,8 @@ Follow these steps to set up and run the project on your local machine.
 Clone the repository to your local machine using the following command:
 
 bash
-Copy code
-git clone https://github.com/YourUsername/LoginPageApp.git
+Copy code https://github.com/Pragatheesh-I/Pragatheesh_221501097_MAD
+git clone 
 2. Open the Project in Android Studio
 Launch Android Studio.
 Click on File > Open....
